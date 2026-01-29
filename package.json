@@ -1,6 +1,7 @@
 {
   "name": "presto-pizza-bot-backend",
   "version": "1.0.0",
+  "homepage": ".",  
   "description": "Backend for Presto Pizza Telegram Bot",
   "author": "",
   "private": true,

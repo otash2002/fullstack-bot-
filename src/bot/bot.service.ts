@@ -43,7 +43,6 @@ export class BotService implements OnModuleInit, OnModuleDestroy {
   private readonly ADMIN_ID: string;
  // Oxiridagi chiziqchaga e'tibor ber!
 private readonly WEB_APP_URL = "https://otash2002.github.io/fullstack-bot-/";
-
   constructor(
     private prisma: PrismaService,
     private configService: ConfigService,
