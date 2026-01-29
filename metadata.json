@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Presto Pizza",
+  "description": "A modern and fast pizza ordering web application for Tashkent, featuring an interactive cart and seamless Telegram integration for placing orders.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
