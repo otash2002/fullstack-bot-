@@ -41,7 +41,8 @@ type MyContext = Context & SessionFlavor<SessionData>;
 export class BotService implements OnModuleInit, OnModuleDestroy {
   private bot: Bot<MyContext>;
   private readonly ADMIN_ID: string;
-  private readonly WEB_APP_URL = "https://otash2002.github.io/prezto_pizza_bot/";
+ // Oxiridagi chiziqchaga e'tibor ber!
+private readonly WEB_APP_URL = "https://otash2002.github.io/fullstack-bot-/";
 
   constructor(
     private prisma: PrismaService,
